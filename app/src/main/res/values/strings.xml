@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Car Yard</string>
+    <string name="make_and_model">Make &amp; Model</string>
+    <string name="year_of_manufacture">Year of manufacture</string>
+    <string name="color">Color</string>
+    <string name="rego">Rego</string>
+    <string name="price">Price</string>
+    <string name="save">Save</string>
+    <string name="NewCar">New car</string>
+    <string name="CarYard">Car Yard</string>
+</resources>
